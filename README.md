@@ -6,7 +6,7 @@ Welcome to the Rubik's Cube Simulator project! This web application allows you t
 
 ## Demo
 
-You can try out the Rubik's Cube Simulator [here](https://rishwal.gitub.io/rubicks-cube).
+You can try out the Rubik's Cube Simulator [here](https://rishwal.github.io/rubicks-cube/).
 
 ## Features
 
