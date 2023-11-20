@@ -6,7 +6,7 @@ Welcome to the Rubik's Cube Simulator project! This web application allows you t
 
 ## Demo
 
-You can try out the Rubik's Cube Simulator [here](#insert-live-demo-link).
+You can try out the Rubik's Cube Simulator [here](https://rishwal.gitub.io/rubicks-cube).
 
 ## Features
 
@@ -27,4 +27,4 @@ You can try out the Rubik's Cube Simulator [here](#insert-live-demo-link).
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/rubiks-cube.git
+   git clone https://github.com/rishwal/rubiks-cube.git
